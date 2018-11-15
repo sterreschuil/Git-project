@@ -12,5 +12,10 @@
     "gulp": "^3.9.1",
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.10.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "browsersync": "0.0.1-security",
+    "gulp-sourcemaps": "^2.6.4"
   }
 }
